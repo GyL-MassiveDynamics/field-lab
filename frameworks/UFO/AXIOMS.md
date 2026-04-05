@@ -112,10 +112,7 @@ It is not inferred.
 
 It is fixed.
 
-Belonging is not a consequence of structure.  
-It is a condition of possibility of structure.
-
-Belonging to the regime is not determined by internal properties of a configuration.
+Belonging to the regime is not determined by internal properties of a configuration.  
 It is fixed by the condition O(Φ).
 
 Consistency does not guarantee belonging.  
