@@ -4,25 +4,50 @@
 
 ## Structural Role
 
-UFO establishes the minimal tensorial regime in which constitutive inseparability becomes formally expressible.
+UFO establishes the minimal regime under which configurations become definable.
 
-It introduces:
+It does not begin from a field.
 
-- A typed tensorial field  
-- Rank as primary structural invariant  
-- The distinction between generic and degenerate configurations  
-- The natural symmetry group acting on the field  
+It begins from Overship.
+
+Overship fixes the condition under which any structure may be formulated.
+
+---
+
+## Regime Construction
+
+Within this condition, the Field emerges as a derived structure:
+
+𝓕 := { Φ | O(Φ) }
+
+Within this Field:
+
+- Configurations admit a tensorial representation
+- Rank emerges as a structural invariant
+- A distinction arises between:
+  - Degenerate configurations (rank = 1)
+  - Generic configurations (rank ≥ 2)
+- A natural symmetry group acts on the space
+
+---
+
+## Structural Consequence
+
+Irreducibility is not an exceptional condition.
+
+It defines the generic regime.
+
+Separability appears only as a limiting case.
 
 ---
 
 ## Position in the Lab
 
-UFO does not function as an auxiliary description of an already given system.
+UFO does not describe an existing system.
 
-It fixes the minimal structural regime within which non-separable configurations become formally legible and invariantly classifiable.
+It fixes the regime in which systems become structurally legible.
 
-In this sense, UFO does not begin from process, but from structure:
-it determines the space in which subsequent transformations, coherences, and derived constructions may become mathematically meaningful without collapsing the identity of the regime itself.
+All subsequent constructions operate within this condition.
 
 ---
 
@@ -30,4 +55,4 @@ it determines the space in which subsequent transformations, coherences, and der
 
 Foundational.
 
-All subsequent constructions operate within, or in relation to, this regime.
+All structures, transformations, and derived regimes depend on this definition.
