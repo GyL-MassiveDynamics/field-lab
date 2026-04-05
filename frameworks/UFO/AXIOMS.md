@@ -4,68 +4,141 @@
 
 ## Axiom I — Primacy of Overship
 
-Overship is not a property, relation, or operator defined within a pre-existing structure.
+Overship  
+is not a property  
+nor a relation  
+nor an operator  
 
-It constitutes the condition under which a regime becomes definable.
+it does not emerge  
+from structure  
 
-No object, configuration, or relation can be formulated independently of the regime fixed by Overship.
+it is  
+the condition  
+
+under which  
+structure  
+becomes  
+possible  
+
+no object  
+no configuration  
+no relation  
+
+is definable  
+outside  
+its regime  
 
 ---
 
 ## Axiom II — Derivation of the Field
 
-The Field does not precede the regime.
+the Field  
+does not precede  
 
-It is defined as the set of configurations admissible under the condition fixed by Overship:
+it does not exist  
+before the regime  
+
+it is not given  
+
+it is induced  
 
 𝓕 := { Φ | O(Φ) }
 
-The Field is not primitive. It is induced.
+the Field  
+is what remains  
+
+once the condition  
+has been fixed  
 
 ---
 
 ## Axiom III — Structural Non-Externality
 
-No valid description of a configuration can be constructed from outside the regime to which it belongs.
+no description  
+is valid  
 
-All admissible formulations are internal to the structure defined by Overship.
+from outside  
+
+there is no  
+external viewpoint  
+
+no neutral ground  
+
+all formulation  
+is internal  
+
+to the regime  
+that permits it  
 
 ---
 
 ## Axiom IV — Constitutive Inseparability
 
-Configurations defined within the regime are not, in general, reducible to independent components.
+configurations  
+do not decompose  
 
-Separability constitutes a limiting case.
+not in general  
 
-The decomposition Φ = Φ₁ ⊗ Φ₂ does not preserve the regime in general.
+Φ ≠ Φ₁ ⊗ Φ₂  
+
+separability  
+is not the rule  
+
+it is the limit  
+
+irreducibility  
+is not exceptional  
+
+it is structural  
 
 ---
 
 ## Axiom V — Structural Belonging
 
-Belonging to the regime is not determined by internal properties of a configuration.
+belonging  
+is not inferred  
 
-It is fixed by the condition O(Φ).
+not from properties  
+not from parts  
 
-No internal criterion exhausts membership.
+Φ ∈ R  
+⇔ O(Φ)  
+
+no internal feature  
+decides it  
+
+membership  
+is fixed  
+
+by the condition  
 
 ---
 
 ## Axiom VI — Closure of the Regime
 
-There exists no strictly larger regime preserving the defining condition of Overship.
+the regime  
+does not extend  
 
-The regime is structurally closed.
+there is no  
+larger structure  
+
+preserving  
+the same condition  
+
+closure  
+is not imposed  
+
+it is necessary  
 
 ---
 
 ## Status
 
-These axioms define the minimal structural conditions under which the UFO regime is formulated.
+not derived  
 
-They are not derived.
+not inferred  
 
-They are not inferred.
+not explained  
 
-They fix the regime.
+they fix  
+the regime
