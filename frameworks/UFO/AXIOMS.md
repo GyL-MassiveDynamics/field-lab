@@ -4,141 +4,148 @@
 
 ## Axiom I — Primacy of Overship
 
-Overship  
-is not a property  
-nor a relation  
-nor an operator  
+The fixation of the regime excludes the possibility  
+of introducing its condition of possibility  
+as a result of the structure that such regime makes possible.
 
-it does not emerge  
-from structure  
+That which determines belonging  
+which cannot be derived, reduced, or eliminated  
+without loss of the object  
+cannot be formulated as a property, relation, or internal element.
 
-it is  
-the condition  
+It must be fixed as a principle.
 
-under which  
-structure  
-becomes  
-possible  
+Overship does not operate within a system.  
+It does not act upon entities.  
+It does not intervene in pre-existing structures.  
+It does not describe configurations.
 
-no object  
-no configuration  
-no relation  
+Overship fixes the regime  
+under which something may be formulated  
+as a system, entity, or structure.
 
-is definable  
-outside  
-its regime  
+It is not a condition of something.  
+It is not a property.  
+It is not a relation.
+
+It is the principle  
+without which nothing can be formulated as such.
+
+Overship does not belong to the system.  
+The system belongs to the regime fixed by Overship.
 
 ---
 
 ## Axiom II — Derivation of the Field
 
-the Field  
-does not precede  
+The Field does not constitute the starting point.  
+It does not precede configurations.  
+It does not act as a container.  
+It is not a pre-given space.
 
-it does not exist  
-before the regime  
+The Field is determined exclusively  
+from the regime fixed by Overship.
 
-it is not given  
+It is not independent.  
+It is not autonomous.  
+It is not prior.
 
-it is induced  
+It is that which results  
+from the condition  
+under which a configuration can be formulated.
 
-𝓕 := { Φ | O(Φ) }
-
-the Field  
-is what remains  
-
-once the condition  
-has been fixed  
+The Field does not ground the regime.  
+The regime grounds the Field.
 
 ---
 
 ## Axiom III — Structural Non-Externality
 
-no description  
-is valid  
+There is no exterior to the regime.  
+There is no external point of observation.
 
-from outside  
+Every distinction between entity and environment  
+between object and context  
+between system and space  
+is not a point of departure.
 
-there is no  
-external viewpoint  
+It is a derivation.
 
-no neutral ground  
-
-all formulation  
-is internal  
-
-to the regime  
-that permits it  
+Any formulation that introduces externality  
+as a primary condition  
+incurs in structural rupture.
 
 ---
 
 ## Axiom IV — Constitutive Inseparability
 
-configurations  
-do not decompose  
+Separability does not constitute the general case.  
+It is not the point of departure.  
+It is not a primary structure.
 
-not in general  
+It is a limiting form.
 
-Φ ≠ Φ₁ ⊗ Φ₂  
+The distinction between parts is not primary.  
+It is derived.
 
-separability  
-is not the rule  
+There exists no configuration  
+whose definition can be decomposed  
+into independent elements  
+without loss of regime.
 
-it is the limit  
-
-irreducibility  
-is not exceptional  
-
-it is structural  
+Inseparability is not exceptional.  
+It is structural.
 
 ---
 
 ## Axiom V — Structural Belonging
 
-belonging  
-is not inferred  
+Belonging is not determined  
+by internal properties.  
+Not by form.  
+Not by representation.
 
-not from properties  
-not from parts  
+It is not verified.  
+It is not computed.  
+It is not inferred.
 
-Φ ∈ R  
-⇔ O(Φ)  
+It is fixed.
 
-no internal feature  
-decides it  
+Belonging is not a consequence of structure.  
+It is a condition of possibility of structure.
 
-membership  
-is fixed  
+Consistency does not guarantee belonging.  
+Structure does not imply validity.
 
-by the condition  
+A configuration belongs to the regime  
+only if its definition implies Overship.
 
 ---
 
 ## Axiom VI — Closure of the Regime
 
-the regime  
-does not extend  
+The regime does not admit extension.  
+It cannot be completed from outside.  
+It cannot be enlarged without alteration.
 
-there is no  
-larger structure  
+There is no structural beyond.  
+There is no complementary domain.
 
-preserving  
-the same condition  
+The regime is not incomplete.  
+It does not require closure.
 
-closure  
-is not imposed  
-
-it is necessary  
+It is complete  
+as a condition of possibility  
+of all structural formulation.
 
 ---
 
 ## Status
 
-not derived  
+These are not derived.
 
-not inferred  
+They are not inferred.
 
-not explained  
+They are not explained.
 
-they fix  
-the regime
+They fix the regime.
