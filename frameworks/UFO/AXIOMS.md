@@ -45,6 +45,7 @@ It is not a pre-given space.
 
 The Field is determined exclusively  
 from the regime fixed by Overship.
+𝓕 := { Φ | O(Φ) }
 
 It is not independent.  
 It is not autonomous.  
@@ -93,8 +94,7 @@ whose definition can be decomposed
 into independent elements  
 without loss of regime.
 
-Inseparability is not exceptional.  
-It is structural.
+The decomposition Φ = Φ₁ ⊗ Φ₂ does not preserve the regime in general.
 
 ---
 
@@ -113,6 +113,9 @@ It is fixed.
 
 Belonging is not a consequence of structure.  
 It is a condition of possibility of structure.
+
+Belonging to the regime is not determined by internal properties of a configuration.
+It is fixed by the condition O(Φ).
 
 Consistency does not guarantee belonging.  
 Structure does not imply validity.
@@ -141,6 +144,8 @@ of all structural formulation.
 ---
 
 ## Status
+
+These axioms define the minimal structural conditions under which the UFO regime is formulated.
 
 These are not derived.
 
