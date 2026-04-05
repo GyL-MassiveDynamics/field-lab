@@ -45,6 +45,7 @@ It is not a pre-given space.
 
 The Field is determined exclusively  
 from the regime fixed by Overship.
+
 𝓕 := { Φ | O(Φ) }
 
 It is not independent.  
