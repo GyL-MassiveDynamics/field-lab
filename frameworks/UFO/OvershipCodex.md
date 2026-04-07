@@ -26,6 +26,16 @@ does not require explanation.
 It must be readable  
 as structure.
 
+## Interpretation Principle
+
+A valid visual instance should allow:
+
+- Immediate identification of regime structure.
+- Recognition of dominant patterns without textual guidance.
+- Detection of anomaly, limit, and stability zones by color alone.
+
+If interpretation requires explanation, the representation is incomplete.
+
 ## Structural Constraints
 
 A visual representation is valid only if:
