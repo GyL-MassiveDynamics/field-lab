@@ -25,3 +25,15 @@ does not require explanation.
 
 It must be readable  
 as structure.
+
+## Structural Constraints
+
+A visual representation is valid only if:
+
+- Color usage is consistent across all experiments.
+- Each color encodes a single structural meaning.
+- No color is used decoratively.
+- Absence of a color is also meaningful.
+- Patterns must be reproducible under the same structural conditions.
+
+Violations of these constraints invalidate the representation as part of OvershipCodex.
